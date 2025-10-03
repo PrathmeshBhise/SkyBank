@@ -121,3 +121,31 @@ bash
 npm run dev
 ```
 Frontend runs on: http://localhost:8081
+
+###Screenshots
+
+**Homepage**
+![Homepage](screenshots/homepage.png)
+
+![Homepage2](screenshots/homepage2.png)
+
+**About Us**
+![About Us](screenshots/aboutus.png)
+
+**Login Page**
+![Login](screenshots/login.png)
+
+**Register Page**
+![Register](screenshots/register.png)
+
+**User Login**
+![User Login](screenshots/userlogin.png)
+
+**Admin Panel**
+![Admin Panel](screenshots/adminpanel.png)
+
+**Admin Dashboard**
+![Dashboard](screenshots/admindash.png)
+
+
+
