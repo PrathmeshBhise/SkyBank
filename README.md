@@ -94,7 +94,7 @@ bash
 ./mvnw spring-boot:run
 
 # Windows (PowerShell)
-mvnw.cmd spring-boot:run
+./mvnw.cmd spring-boot:run
 ```
 
 - Now Backend runs on: http://localhost:8080
